@@ -10,4 +10,4 @@ weekly acquirment from paper reading
 * paper:CRNN《An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition》[[paper]](https://arxiv.org/abs/1507.05717)
 
 ## week 7.17-7.13
-*CTC loss:CTC Loss原理[[blog]](https://zhuanlan.zhihu.com/p/108547594)
+* CTC loss:CTC Loss原理[[blog]](https://zhuanlan.zhihu.com/p/108547594)
