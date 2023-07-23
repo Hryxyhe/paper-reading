@@ -11,5 +11,5 @@ weekly acquirment from paper reading
 
 ## week 7.17-7.13
 * blog:CTC loss[[blog]](https://zhuanlan.zhihu.com/p/108547594)
-* paper:《segmente anything》[[paper]](https://arxiv.org/abs/2304.02643)
+* paper:《segment anything》[[paper]](https://arxiv.org/abs/2304.02643)
 * blog
