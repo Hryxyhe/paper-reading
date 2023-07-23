@@ -9,7 +9,7 @@ weekly acquirment from paper reading
 * blog:prompt learning[[blog]](https://zhuanlan.zhihu.com/p/595178668)
 * paper:CRNN《An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition》[[paper]](https://arxiv.org/abs/1507.05717)
 
-## week 7.17-7.13
+## week 7.17-7.23
 * blog:CTC loss[[blog]](https://zhuanlan.zhihu.com/p/108547594)
 * paper:《segment anything》[[paper]](https://arxiv.org/abs/2304.02643)
 * blog
