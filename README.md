@@ -14,6 +14,6 @@ weekly acquirment from paper reading
 * paper:《segment anything》[[paper]](https://arxiv.org/abs/2304.02643)
 * blog:《segment anything》[[blog1]](https://zhuanlan.zhihu.com/p/620004338)[[blog2]](https://zhuanlan.zhihu.com/p/619962145)
 
-## week 7.24-7.30
+##  week 7.24-7.30
 * blog:我自己关于crnn代码的学习[[crnn-pytorch]](https://blog.csdn.net/qq_61587005/article/details/131933234?spm=1001.2014.3001.5502)
 * blog:我自己关于CAN代码的学习[[CAN]](https://blog.csdn.net/qq_61587005/article/details/131940250?spm=1001.2014.3001.5502)
